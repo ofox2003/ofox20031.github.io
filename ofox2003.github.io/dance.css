@@ -1,0 +1,17 @@
+.like .dance{
+    position: absolute;
+    display: inline-block;
+    top: 20px;
+    left: 600px;
+    font-size: 50px;
+    color: blueviolet;
+
+}
+.int video{
+    position: absolute;
+    display: inline-block;
+    top:100px;
+    left: 600px;
+    width:400px;
+    height: 706px;
+}
